@@ -54,7 +54,9 @@ b= \frac{a+c}{2}
 $	
 
 - 等差数列的前n项求和<br>
-$ S_n=na_1+ \frac{n(n-d)d}{2}= \frac{n(a_1+a_n)}{2} $ 
+$ 
+S_n=na_1+ \frac{n(n-d)d}{2}= \frac{n(a_1+a_n)}{2} 
+$ 
 
 ### 等比数列
 	
