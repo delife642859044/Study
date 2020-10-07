@@ -43,7 +43,8 @@ a_6=a_2+4d\\
 a_n=a_m+(n-m)d
 $
 - 等差中项：<br>
-**` a,b,c为等差,则b称为a,c的等差中项。 ` **<br>
+
+	**` a,b,c为等差,则b称为a,c的等差中项。 ` **<br>
 $
 1,2,3\\
 b-a=c-b\\
@@ -51,3 +52,25 @@ b-a=c-b\\
 a+c=2b\\
 b= \frac{a+c}{2}
 $	
+
+- 等差数列的前n项求和<br>
+$ S_n=na_1+ \frac{n(n-d)d}{2}= \frac{n(a_1+a_n)}{2} $ 
+
+### 等比数列
+	
+	**` `**
+- 公比:
+$ \frac{a_{n+1}}{a_n}=q ,\ a_n\neq 0, \ q\neq 0$
+
+- 通项公式：<br>
+$ 
+a_2=a_1q\\
+a_3=a_2q=a_1q\cdot q = a_1d^2\\
+a_4=a_3q=a_2q\cdot q = a_1d^2\cdot q = a_1d^3\\
+\ldots\\
+a_n=a_1d^{n-1}
+$ 
+ - $ a_n与a_m的关系\\
+	 a_5=a_3q^2\\
+	 a_6=a_3q^3\\
+	 a_n=a_mq^{n-m}, \ (n>m)$ 
